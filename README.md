@@ -1,3 +1,3 @@
 # mcassetdl
 
-A simple Python script that downloads assets from an asset index.
+A simple Python script that downloads Minecraft assets from an asset index.
